@@ -1,2 +1,3 @@
 # BasicOnePageWebsite
-One Page Website
+
+One page website showcasing HTML/CSS skills
