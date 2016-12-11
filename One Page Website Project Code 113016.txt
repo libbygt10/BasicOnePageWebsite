@@ -5,10 +5,10 @@
 <style>
     body {
       text-align: center;
-      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background: url("http://i.imgur.com/0yEJGoS.jpg");
       background-size: cover;
       background-position: center;
-      color: white;
+      color: red;
       font-family: helvetica;
     }
     p {
@@ -17,7 +17,7 @@
     input {
       border: 0;
       padding: 10px;
-      font-size: 18px;
+      font-size: 24px;
     }
     input[type="submit"] {
       background: red;
@@ -26,7 +26,7 @@
   </style>
 </head>
 <body>
-  <img src="http://www.academypgh.com/wp-content/uploads/2016/11/Liberty-Gaither-Academy-Pittsburgh-Session-2.png">
+  <img src="http://i.imgur.com/8qnSoIW.jpg" style="width: 275px; height: 350px;">
   <p>My name is Liberty. I'm a web developer, and I would love to design your company's website for you!</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
