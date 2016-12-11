@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+    body {
+      text-align: center;
+      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="http://www.academypgh.com/wp-content/uploads/2016/11/Liberty-Gaither-Academy-Pittsburgh-Session-2.png">
+  <p>My name is Liberty. I'm a web developer, and I would love to design your company's website for you!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
+
+</html>
