@@ -27,7 +27,7 @@
 </head>
 <body>
   <img src="http://i.imgur.com/8qnSoIW.jpg" style="width: 275px; height: 350px;">
-  <p>My name is Liberty. I'm a web developer, and I would love to design your company's website for you!</p>
+  <p>My name is Liberty. I'm a web developer, and I would love to have the opportunity to design your company's web site! Contact me, and let's set up a time to discuss your needs.</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
